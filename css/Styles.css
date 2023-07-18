@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-adso{
+    background: #000;
+}
+
+.navbar-brand{
+    color: #fff;
+}
+
+.navbar-brand:hover{
+    color: #fff;
+}
+
+.nav-link{
+    color: #fff;
+}
+
+.nav-link:hover{
+    color: #fff;
+}
+
+#nosotros{
+    width: 100%;
+    position: relative;
+    padding: 120px 0;
+}
+
+#nosotros h2{
+    font-size: 50px;
+}
+
+#servicios{
+    padding: 30px 0 100px;
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+#servicios h2{
+    font-size: 50px;
+}
+
+#servicios .row{
+    margin-top: 50px;
+}
+
+.card-servicios{
+    border: 1px solid black;
+    max-width: 320px;
+    margin: 10px auto;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.card-servicios img{
+    border-radius: 10px 10px  0 0;
+}
+
+.card-servicios h3{
+    padding: 10px;
+    text-align: center;
+}
+
+.card-servicios p{
+    padding: 10px;
+    text-align: center;
+}
+
+#preguntas{
+    padding: 30px 0 100px;
+    width: 100%;
+    position: relative;
+    text-align: center;
+}
+
+#preguntas h2{
+    font-size: 50px;
+}
+
+#preguntas img{
+    border-radius: 3px;
+}
+
+#preguntas .row{
+    margin-top: 50px;
+}
+
+.coffe{
+    margin-top: 3px;
+}
+
+
+#footer{
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    background: whitesmoke;
+}
+#footer .logo{
+    text-align: center;
+}
+
+#footer .img2{
+    margin: 15px;
+}
+
+#footer .img2:hover{
+    transform: scale(1.1);
+}
+
+#footer .final h2{
+    margin-top: 20px;
+    font-size: 20px;
+}
